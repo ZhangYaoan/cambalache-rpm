@@ -3,7 +3,7 @@ Version: 0.90.4
 Release: %autorelease
 License: LGPLv2.1
 URL:     https://gitlab.gnome.org/jpu/cambalache
-Source0: https://gitlab.gnome.org/jpu/cambalache/-/archive/0.91.1/%{name}-%{version}.tar.gz
+Source0: https://gitlab.gnome.org/jpu/cambalache/-/archive/%{version}/%{name}-%{version}.tar.gz
 Summary: Cambalache is a new RAD tool for Gtk 4 and 3 with a clear MVC design and data model first philosophy.
 
 %global uuid ar.xjuan.Cambalache
